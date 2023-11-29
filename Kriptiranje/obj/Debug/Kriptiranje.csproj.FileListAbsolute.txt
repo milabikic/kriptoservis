@@ -1,0 +1,7 @@
+C:\Users\milab\source\repos\Kriptiranje\Kriptiranje\bin\Debug\Kriptiranje.exe.config
+C:\Users\milab\source\repos\Kriptiranje\Kriptiranje\bin\Debug\Kriptiranje.exe
+C:\Users\milab\source\repos\Kriptiranje\Kriptiranje\bin\Debug\Kriptiranje.pdb
+C:\Users\milab\source\repos\Kriptiranje\Kriptiranje\obj\Debug\Kriptiranje.csproj.AssemblyReference.cache
+C:\Users\milab\source\repos\Kriptiranje\Kriptiranje\obj\Debug\Kriptiranje.csproj.CoreCompileInputs.cache
+C:\Users\milab\source\repos\Kriptiranje\Kriptiranje\obj\Debug\Kriptiranje.exe
+C:\Users\milab\source\repos\Kriptiranje\Kriptiranje\obj\Debug\Kriptiranje.pdb
